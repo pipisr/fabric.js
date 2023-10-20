@@ -4,8 +4,5 @@
   "entryPoints": ["fabric.ts"],
   "out": "docs",
   "excludeExternals": true,
-  "tsconfig": "typedoc.config.json",
-  "hideBreadcrumbs": "true",
-  "publicPath": "/apidocs/",
-  "plugin": ["typedoc-plugin-markdown"]
+  "tsconfig": "typedoc.config.json"
 }
